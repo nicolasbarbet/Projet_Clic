@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(85, 83, 81);
+    color: cornsilk;
+    margin: 0px;
+    padding: 0px;
+}
+
+header,h1,h3{
+    background-color: brown;
+    color: black;
+    margin: 0px;
+    padding: 1%;
+}
