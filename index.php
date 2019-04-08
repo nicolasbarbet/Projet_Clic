@@ -17,7 +17,7 @@
 
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi vitae in tempore nobis, dolore itaque suscipit laudantium consequuntur ducimus veritatis labore obcaecati voluptatibus quae magni molestias libero ipsa. Quis, officiis.</p>
     </body>
-    <footer>
-
-    </footer>
+    <?php
+        require "footer.php";
+    ?>
 </html>
